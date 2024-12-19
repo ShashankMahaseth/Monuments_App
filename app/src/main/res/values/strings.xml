@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ArtSpace_App</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="next">NEXT</string>
+    <string name="TajMahal">TAJ MAHAL</string>
+    <string name="AboutTajaMahal">The Taj Mahal is an invory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra,to house
+        the tomb of his favorite wife,Mumtaz Mahal
+    </string>
+    <string name="Estd.Tajmahal">ESTD:1648</string>
+    <string name="IndiaGate">INDIA GATE</string>
+    <string name="AboutIndiaGate">India Gate is an iconic war memorial located in New Delhi,
+        India. Designed by British architect Sir Edwin Lutyens and completed in 1931,
+        it commemorates the 84,000 Indian soldiers who died during World War I </string>
+    <string name="ESTDIndiaGate">ESTD:1931</string>
+    <string name="QutabMinar">QUTAB MINAR</string>
+    <string name="AboutQutabMinar">Qutub Minar is a UNESCO World Heritage Site and one of India\'s
+        most iconic monuments,
+        located in Mehrauli, Delhi. Built in the early 13th century
+        by Qutb-ud-din Aibak, the founder of the Delhi Sultanate,
+        this towering minaret stands 73 meters tall and is made of red sandstone and marble. </string>
+    <string name="ESTDQutabMinar">ESTD:1192</string>
+    <string name="LotusTemple">LOTUS TEMPLE</string>
+    <string name="AboutLotusTemple">The Lotus Temple, located in New Delhi,
+        India, is a stunning Bahá\'í House of Worship renowned for its unique lotus-inspired architecture.
+        Designed by Iranian architect Fariborz Sahba and completed in 1986,
+        the temple is constructed with 27 white marble petals arranged in clusters to form a lotus flower. </string>
+    <string name="ESTDLotusTemple">ESTD:December 24, 1986.</string>
+
+
+</resources>
